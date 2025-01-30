@@ -5,12 +5,12 @@
 Passionate about creating immersive gaming experiences, exploring the latest in AI, and securing the digital world. Always learning & innovating.
 
 ## 👀 I’m interested in
-- **Game Development** (AI-driven mechanics, and player experience)
+- **Game Development** (AI-driven mechanics,narrative storytelling and player experience)
 - **Cybersecurity** (Threat detection, ethical hacking, and secure software development)
 - **Artificial Intelligence** (Machine learning, computer vision, and AI-driven applications)
 
 ## 🌱 I’m currently learning
-- Advanced **AI in Game Development**
+- ** Fundamentals of Game Development**
 - **Machine Learning** for cybersecurity applications
 
 ## 💞️ I’m looking to collaborate on
