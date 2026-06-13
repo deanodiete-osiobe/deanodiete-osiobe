@@ -1,25 +1,89 @@
-# 👋 Hi, I’m @deanodiete-osiobe
+# 👋 Hi, I’m Dean
 
-## 🚀 About Me
-🎮 **Software Developer** | 💻 **Tech Enthusiast** | 🔐 **Cybersecurity & AI Advocate**  
-Passionate about creating immersive gaming experiences, exploring the latest in AI, and securing the digital world. Always learning & innovating.
+## 🔐 Cybersecurity-Focused Software Developer
 
-## 👀 I’m interested in
-- **Game Development** (AI-driven mechanics,narrative storytelling and player experience)
-- **Cybersecurity** (Threat detection, ethical hacking, and secure software development)
-- **Artificial Intelligence** (Machine learning, computer vision, and AI-driven applications)
+I build security tooling and desktop applications focused on Windows hardening, endpoint monitoring, configuration analysis, and security automation. My work combines software engineering with practical security analysis and system-level tooling.
 
-## 💞️ I’m looking to collaborate on
-- **Game projects** that push boundaries in mechanics & storytelling
-- **AI-driven cybersecurity solutions**
-- **Open-source tech projects** related to AI & security
+### Current Focus
 
-## 📫 How to reach me
-- **GitHub**: [@deanodiete-osiobe](https://github.com/deanodiete-osiobe)
-- **Email**: o.osiobe.work@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/dean-odiete-osiobe
+* Endpoint security and Windows system hardening
+* Security automation and audit tooling
+* Secure application design and local system security
 
+---
 
+# 🚀 Featured Projects
 
+## 🛡️ SentinelAudit — Windows Security Hardening Tool
 
+Desktop security auditing application for evaluating Windows security posture and identifying system hardening misconfigurations.
 
+### Features
+
+* Analyzes Windows security settings including Firewall, BitLocker, UAC, audit policies, services, and password policies
+* Generates structured findings with severity levels and supporting evidence
+* Supports remediation guidance for system hardening
+* Produces Excel-based audit reports
+* Runs fully offline as a local desktop application
+
+**Tech Stack:** Python, PyWebView, Windows Security APIs, XlsxWriter, PyInstaller
+
+---
+
+## 📡 System Agent Admin + Client — Endpoint Monitoring Tool
+
+Desktop monitoring system consisting of a centralized admin console and lightweight endpoint client for security event visibility and telemetry collection.
+
+### Features
+
+* Endpoint monitoring and status tracking
+* Security event collection and audit logging
+* Basic telemetry collection workflows
+* Offline-tolerant client communication using queue and retry logic
+* Standalone Windows desktop deployment
+
+**Tech Stack:** Python, React, SQLite, WebView, CustomTkinter, PyInstaller
+
+---
+
+# 🧠 What I Work On
+
+* Security auditing and configuration analysis tools
+* Detection-style logic for identifying insecure system states
+* Secure desktop application development
+* Automation of repetitive security review tasks
+
+---
+
+# 🔍 Interests
+
+* SOC operations and endpoint monitoring
+* Windows security internals and hardening baselines
+* Application security and secure development practices
+* Practical AI applications in cybersecurity workflows
+
+---
+
+# 🤝 Open To
+
+* Junior SOC Analyst opportunities
+* Junior Security Engineer roles
+* Security tooling and automation projects
+* Open-source cybersecurity collaborations
+
+---
+
+# 📫 Contact
+
+* Email: [o.osiobe.work@gmail.com](mailto:o.osiobe.work@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/dean-odiete-osiobe
+* GitHub: @deanodiete-osiobe
+
+---
+
+# ⚡ Quick Signal
+
+* Built a Windows security hardening and audit tool
+* Developed endpoint monitoring and telemetry collection workflows
+* Comfortable with Python-based security automation
+* Interested in detection engineering and endpoint security
