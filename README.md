@@ -73,6 +73,28 @@ Desktop monitoring system consisting of a centralized admin console and lightwei
 
 ---
 
+🎓 Education
+Bachelor of Science in Computer Science
+Covenant University, Nigeria • GPA: 3.00
+
+🏆 Certifications
+IBM Ethical Hacking with Open-Source Tools Professional Certificate • 05/2026 Coursera
+Microsoft IT Support Professional Certificate • 05/2026 Coursera
+Google Cybersecurity Professional Certificate • 12/2025 Coursera
+
+🔥 Skills
+Frontend Development: JavaScript programming, React.js experience, React Native (Expo), TypeScript proficiency, Frontend web development, Responsive web design
+
+Backend Development: Node.js fundamentals, Python programming, RESTful API development, API integration, Basic backend development, Asynchronous task handling
+
+Databases & Data Management: Database management (SQLite, MySQL, Firebase), Strong database fundamentals
+
+Cybersecurity & IT Operations: Network security fundamentals, Web application security awareness, Vulnerability assessment, System hardening (Linux environments), IT support and troubleshooting, Strong debugging skills
+
+Tools & Technologies: Cybersecurity tools (Nmap, Wireshark, Metasploit, Kali Linux), Virtualization (Oracle VM VirtualBox), AI-assisted development workflows
+
+Software Engineering Practices: Application development, Requirements gathering, Software development best practices, Team collaboration
+
 # 📫 Contact
 
 * Email: [o.osiobe.work@gmail.com](mailto:o.osiobe.work@gmail.com)
