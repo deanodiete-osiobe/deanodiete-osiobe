@@ -1,111 +1,141 @@
-# 👋 Hi, I’m Dean
+# 👋 Dean Odiete-Osiobe
 
-## 🔐 Cybersecurity-Focused Software Developer
-
-I build security tooling and desktop applications focused on Windows hardening, endpoint monitoring, configuration analysis, and security automation. My work combines software engineering with practical security analysis and system-level tooling.
-
-### Current Focus
-
-* Endpoint security and Windows system hardening
-* Security automation and audit tooling
-* Secure application design and local system security
+### 🔐 Cybersecurity Engineer | Security Tooling | Windows Hardening | Detection Engineering
 
 ---
 
-# 🚀 Featured Projects
+## ⚡ About Me
 
-## 🛡️ SentinelAudit — Windows Security Hardening Tool
+I build defensive security tools focused on **Windows system hardening, endpoint visibility, and security automation**. My work focuses on translating security concepts into practical tooling that detects misconfigurations, analyzes system posture, and automates security review workflows.
 
-Desktop security auditing application for evaluating Windows security posture and identifying system hardening misconfigurations.
-
-### Features
-
-* Analyzes Windows security settings including Firewall, BitLocker, UAC, audit policies, services, and password policies
-* Generates structured findings with severity levels and supporting evidence
-* Supports remediation guidance for system hardening
-* Produces Excel-based audit reports
-* Runs fully offline as a local desktop application
-
-**Tech Stack:** Python, PyWebView, Windows Security APIs, XlsxWriter, PyInstaller
+I operate at the intersection of:
+- Cybersecurity engineering  
+- Desktop security tooling  
+- Detection-style system analysis  
+- Secure application design  
 
 ---
 
-## 📡 System Agent Admin + Client — Endpoint Monitoring Tool
+## 🧠 Core Focus Areas
 
-Desktop monitoring system consisting of a centralized admin console and lightweight endpoint client for security event visibility and telemetry collection.
-
-### Features
-
-* Endpoint monitoring and status tracking
-* Security event collection and audit logging
-* Basic telemetry collection workflows
-* Offline-tolerant client communication using queue and retry logic
-* Standalone Windows desktop deployment
-
-**Tech Stack:** Python, React, SQLite, WebView, CustomTkinter, PyInstaller
+- Windows security posture analysis & hardening validation  
+- Endpoint telemetry and monitoring systems  
+- Security automation and audit tooling  
+- Detection logic for insecure system states  
+- Offline-first security desktop applications  
 
 ---
 
-# 🧠 What I Work On
+## 🚀 Featured Projects
 
-* Security auditing and configuration analysis tools
-* Detection-style logic for identifying insecure system states
-* Secure desktop application development
-* Automation of repetitive security review tasks
+### 🛡️ SentinelAudit — Windows Security Posture Analyzer
 
----
+Desktop security auditing tool for evaluating Windows systems against security hardening baselines.
 
-# 🔍 Interests
+**What it does:**
+- Analyzes Windows security controls (Firewall, BitLocker, UAC, services, audit policies)
+- Detects insecure configurations and misalignment with best practices
+- Generates structured risk reports with severity classification
+- Exports audit findings to Excel for reporting workflows
+- Fully offline execution (no cloud dependency)
 
-* SOC operations and endpoint monitoring
-* Windows security internals and hardening baselines
-* Application security and secure development practices
-* Practical AI applications in cybersecurity workflows
-
----
-
-# 🤝 Open To
-
-* Junior SOC Analyst opportunities
-* Junior Security Engineer roles
-* Security tooling and automation projects
-* Open-source cybersecurity collaborations
+**Stack:** Python · PyWebView · Windows Security APIs · XlsxWriter · PyInstaller
 
 ---
 
-🎓 Education
-Bachelor of Science in Computer Science
-Covenant University, Nigeria • GPA: 3.00
+### 📡 System Agent — Endpoint Monitoring & Telemetry Platform
 
-🏆 Certifications
-IBM Ethical Hacking with Open-Source Tools Professional Certificate • 05/2026 Coursera
-Microsoft IT Support Professional Certificate • 05/2026 Coursera
-Google Cybersecurity Professional Certificate • 12/2025 Coursera
+Lightweight endpoint monitoring system with centralized admin visibility for security event tracking.
 
-🔥 Skills
-Frontend Development: JavaScript programming, React.js experience, React Native (Expo), TypeScript proficiency, Frontend web development, Responsive web design
+**What it does:**
+- Collects endpoint system telemetry and status signals
+- Logs security-relevant events for auditing
+- Implements retry-based offline-tolerant communication
+- Provides centralized monitoring dashboard
+- Packaged as standalone Windows applications
 
-Backend Development: Node.js fundamentals, Python programming, RESTful API development, API integration, Basic backend development, Asynchronous task handling
-
-Databases & Data Management: Database management (SQLite, MySQL, Firebase), Strong database fundamentals
-
-Cybersecurity & IT Operations: Network security fundamentals, Web application security awareness, Vulnerability assessment, System hardening (Linux environments), IT support and troubleshooting, Strong debugging skills
-
-Tools & Technologies: Cybersecurity tools (Nmap, Wireshark, Metasploit, Kali Linux), Virtualization (Oracle VM VirtualBox), AI-assisted development workflows
-
-Software Engineering Practices: Application development, Requirements gathering, Software development best practices, Team collaboration
-
-# 📫 Contact
-
-* Email: [o.osiobe.work@gmail.com](mailto:o.osiobe.work@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/dean-odiete-osiobe
-* GitHub: @deanodiete-osiobe
+**Stack:** Python · React · SQLite · CustomTkinter · WebView · PyInstaller
 
 ---
 
-# ⚡ Quick Signal
+## 🧩 What I Build
 
-* Built a Windows security hardening and audit tool
-* Developed endpoint monitoring and telemetry collection workflows
-* Comfortable with Python-based security automation
-* Interested in detection engineering and endpoint security
+- Security tools that detect insecure system configurations  
+- Automation systems for repetitive security analysis tasks  
+- Endpoint visibility and telemetry collection workflows  
+- Desktop applications for offline security auditing  
+- Detection logic for identifying system weaknesses  
+
+---
+
+## 🔍 Technical Interests
+
+- SOC operations & endpoint detection (EDR concepts)  
+- Windows internals & security hardening baselines  
+- Application Security (AppSec) engineering  
+- Detection engineering & defensive security systems  
+- Security automation using Python  
+
+---
+
+## 🛠️ Tech Stack
+
+### Security & Cybersecurity
+Windows hardening · Vulnerability assessment · Network security · Security tooling · Detection engineering fundamentals
+
+### Development
+Python · JavaScript · React · React Native (Expo) · REST APIs · Async programming
+
+### Data & Systems
+SQLite · MySQL · Firebase · System design fundamentals
+
+### Tools
+Kali Linux · Nmap · Wireshark · Metasploit · VirtualBox · PyInstaller
+
+---
+
+## 📈 Experience Signal
+
+- Built Windows security auditing and hardening analysis tools  
+- Developed endpoint telemetry and monitoring systems  
+- Designed offline-first security desktop applications  
+- Focused on detection-style logic for system security evaluation  
+- Strong interest in SOC engineering and defensive tooling  
+
+---
+
+## 🎯 Open To
+
+- Junior SOC Analyst roles  
+- Junior Security Engineer roles  
+- Security tooling / detection engineering internships  
+- Open-source cybersecurity collaborations  
+
+---
+
+## 🎓 Education
+
+**B.Sc. Computer Science**  
+Covenant University, Nigeria • GPA: 3.00  
+
+---
+
+## 🏆 Certifications
+
+- IBM Ethical Hacking with Open-Source Tools (Coursera)  
+- Microsoft IT Support Professional Certificate (Coursera)  
+- Google Cybersecurity Professional Certificate (Coursera)  
+
+---
+
+## 📫 Contact
+
+- Email: o.osiobe.work@gmail.com  
+- LinkedIn: linkedin.com/in/dean-odiete-osiobe  
+- GitHub: @deanodiete-osiobe  
+
+---
+
+## ⚡ One-Line Signal
+
+Security engineer building detection-focused Windows hardening and endpoint monitoring tools with a focus on practical defensive security systems.
